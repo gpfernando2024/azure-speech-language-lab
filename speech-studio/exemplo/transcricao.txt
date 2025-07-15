@@ -1,0 +1,7 @@
+Transcrição gerada via Azure Speech Studio (STT - Speech to Text)
+
+Áudio de entrada:
+"Olá! Bem-vindo ao nosso laboratório de inteligência artificial usando os serviços da Microsoft Azure."
+
+Resultado da transcrição:
+"Olá! Bem-vindo ao nosso laboratório de inteligência artificial usando os serviços da Microsoft Azure."
