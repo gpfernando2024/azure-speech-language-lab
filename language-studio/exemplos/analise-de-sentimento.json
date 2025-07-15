@@ -1,0 +1,21 @@
+{
+  "text": "O atendimento foi excelente e muito rápido!",
+  "language": "pt",
+  "sentiment": "positive",
+  "confidenceScores": {
+    "positive": 0.98,
+    "neutral": 0.01,
+    "negative": 0.01
+  },
+  "sentences": [
+    {
+      "text": "O atendimento foi excelente e muito rápido!",
+      "sentiment": "positive",
+      "confidenceScores": {
+        "positive": 0.98,
+        "neutral": 0.01,
+        "negative": 0.01
+      }
+    }
+  ]
+}
