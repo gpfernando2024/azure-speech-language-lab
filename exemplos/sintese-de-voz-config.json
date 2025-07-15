@@ -1,7 +1,0 @@
-{
-  "text": "Este é um exemplo de síntese de voz usando o Azure Speech Studio.",
-  "voice": "pt-BR-AntonioNeural",
-  "style": "conversational",
-  "pitch": "+0Hz",
-  "rate": "0%"
-}
