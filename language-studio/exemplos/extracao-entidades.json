@@ -1,0 +1,18 @@
+{
+  "text": "A reunião com a Microsoft em São Paulo está marcada para 22 de julho.",
+  "language": "pt",
+  "entities": [
+    {
+      "text": "Microsoft",
+      "category": "Organization"
+    },
+    {
+      "text": "São Paulo",
+      "category": "Location"
+    },
+    {
+      "text": "22 de julho",
+      "category": "DateTime"
+    }
+  ]
+}
